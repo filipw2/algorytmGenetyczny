@@ -1,0 +1,13 @@
+c:\users\fwisniow\documents\visual studio 2013\Projects\siecN\siecN\bin\Debug\siecN.exe.config
+C:\Users\Filip\Desktop\siecN\siecN\bin\Debug\siecN.exe.config
+C:\Users\Filip\Desktop\siecN\siecN\bin\Debug\siecN.exe
+C:\Users\Filip\Desktop\siecN\siecN\bin\Debug\siecN.pdb
+C:\Users\Filip\Desktop\siecN\siecN\obj\Debug\siecN.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\siecN\siecN\obj\Debug\siecN.exe
+C:\Users\Filip\Desktop\siecN\siecN\obj\Debug\siecN.pdb
+K:\STUDNIA\Technologia obiektowa\siecN\siecN\bin\Debug\siecN.exe.config
+K:\STUDNIA\Technologia obiektowa\siecN\siecN\obj\Debug\siecN.exe
+K:\STUDNIA\Technologia obiektowa\siecN\siecN\obj\Debug\siecN.pdb
+K:\STUDNIA\Technologia obiektowa\siecN\siecN\bin\Debug\siecN.exe
+K:\STUDNIA\Technologia obiektowa\siecN\siecN\bin\Debug\siecN.pdb
+K:\STUDNIA\Technologia obiektowa\siecN\siecN\obj\Debug\siecN.csprojResolveAssemblyReference.cache

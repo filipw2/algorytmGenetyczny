@@ -1,0 +1,6 @@
+K:\STUDNIA\Technologia obiektowa\algorytmGenetyczny\algorytmGenetyczny\bin\Debug\siecN.exe.config
+K:\STUDNIA\Technologia obiektowa\algorytmGenetyczny\algorytmGenetyczny\obj\Debug\siecN.exe
+K:\STUDNIA\Technologia obiektowa\algorytmGenetyczny\algorytmGenetyczny\obj\Debug\siecN.pdb
+K:\STUDNIA\Technologia obiektowa\algorytmGenetyczny\algorytmGenetyczny\bin\Debug\siecN.exe
+K:\STUDNIA\Technologia obiektowa\algorytmGenetyczny\algorytmGenetyczny\bin\Debug\siecN.pdb
+K:\STUDNIA\Technologia obiektowa\algorytmGenetyczny\algorytmGenetyczny\obj\Debug\algorytmGenetyczny.csprojResolveAssemblyReference.cache
